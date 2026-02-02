@@ -1,5 +1,4 @@
-# frederik-tech.github.io
-<!doctype html>
+# 
 <html lang="de">
 <head>
   <meta charset="utf-8" />
